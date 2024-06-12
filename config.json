@@ -1,0 +1,10 @@
+{
+    "discord": {
+        "guild-id": "1232592074063351858",
+        "verified-role-id": "1250323037904048189",
+        "privileged-intents": true
+    },
+    "recaptcha": {
+        "public-key": "6Lce0vYpAAAAAK81-yxOUS-9ptVsSHIQW2HSB2gR"
+    }
+}
